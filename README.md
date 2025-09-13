@@ -63,7 +63,7 @@ PatientManagementSystem/
 ### Docker ile Çalıştırma (Önerilen)
 1. **Projeyi klonlayın:**
     ```bash
-    git clone <repoURL>
+    git clone https://github.com/mustafa-altuntas/PatientManagementSystem.git
     ```
     ```bash
     cd PatientManagementSystem
@@ -91,7 +91,7 @@ PatientManagementSystem/
 
 1. **Projeyi klonlayın:**
     ```bash
-    git clone <repoURL>
+    git clone https://github.com/mustafa-altuntas/PatientManagementSystem.git
     ```
     ```bash
     cd PatientManagementSystem
