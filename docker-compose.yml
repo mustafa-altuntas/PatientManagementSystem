@@ -1,0 +1,8 @@
+services:
+  patient-app:
+    build: .
+    container_name: patient-management
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./data:/app/data

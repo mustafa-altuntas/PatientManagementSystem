@@ -1,0 +1,7 @@
+2a24e087-a8a6-4e6b-b163-2ab864d54cb7,Ahmet,Yılmaz,29,+905321112233,ahmet.yilmaz@example.com
+29d3af05-df0f-46d6-9752-5a1eff530b08,Elif,Koç,38,+905977778899,elif.koc@example.com
+43ad9180-0ec2-4284-b705-f154083a2ce3,Ayşe,Demir,33,+905422223344,ayse.demir@example.com
+795cba79-2616-49c8-9322-e87e52653e0a,Mehmet,Kaya,41,+905533334455,mehmet.kaya@example.com
+9a42f738-8ed7-4aaf-ad1a-f23e6e47f74d,Fatma,Çelik,27,+905644445566,fatma.celik@example.com
+54320727-0fb7-444b-8bce-4a752ccc9367,Murat,Şahin,50,+905755556677,murat.sahin@example.com
+998cf833-b65b-407c-8a67-ee27c007068f,Zeynep,Arslan,32,+905866667788,zeynep.arslan@example.com
